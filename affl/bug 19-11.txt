@@ -1,0 +1,6 @@
+pausing video
+try to 
+- remove mediastream
+- clear localpeer
+- remotevideoview.clearimage
+- 
