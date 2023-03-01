@@ -1,1 +1,96 @@
-{"status":200,"message":"success","total":4,"totalAll":4,"data":[{"id":24,"id_promo":28,"id_transaction":1175,"customer_name":"Walk in customer","transaction_date":"2023-02-24 06:16:08","kode_transaksi":"230224RE2C","kode_pembayaran":null,"value":25000,"created_at":"2023-02-23T23:16:09.000000Z","id_toko":48,"tipe_promo":0,"tipe_promo_text":"nominal","id_detail_transaction":2020,"id_product":299,"qty":1,"promo":{"id_promo":28,"kode_promo":"Coba-Promosi-Nominal","nama_promo":"Coba Promosi Nominal","group_promo":0,"tipe_promo":0,"value":25000,"max_value":25000,"quota":5,"is_active":1,"all_customer":1,"all_product":0,"user_record":null,"user_modified":null,"notes":null,"id_toko":48,"created_at":"22-02-2023 04:29:47","updated_at":"23-02-2023 23:16:09","deleted_at":null,"start_date":"2023-02-22 11:02:47","end_date":"2023-02-27 23:59:59","minimal_transaction":0,"used":4,"remaining":1},"transaction":{"id_transaction":1175,"id_toko":48,"id_customer":null,"id_payment":null,"date_transaction":"2023-02-24 06:16:08","sub_total":18000,"discount":0,"shipping":0,"tax":0,"payment_type":1,"pay_amount":18000,"debt":0,"user_record":"48","user_modified":"48","created_at":"2023-02-23T23:16:09.000000Z","updated_at":"2023-02-23T23:16:09.000000Z","uuid":"c0c6bec3e1e848e3a8eb68f54f462f87","id_kasir":143,"no_references":null,"kode_transaksi":"230224RE2C","status":1,"include_tax":0,"note":null,"percent_tax":0,"change":2000,"money_paid":20000,"cash_insufficient":0,"gift_card_amount":0,"gift_card_code":null},"product":{"id_product":299,"id_category":"b08f404d7f5240a5afff09ccfbfce374","id_brand":"86bf561407ce4a9eaaa6c9321c583c85","id_type":"38511b9a0e0749d7bd6f976ff7e19411","kode_product":"3010590002","nama_product":"SEMEN DYNAMIX SERBA GUNA PLASTIC BAG - 40 KG","user_record":"","user_modified":null,"created_at":"2022-09-19T08:56:05.000000Z","updated_at":"2022-09-19T08:56:05.000000Z","id_uom":"4a7cec67b3d244a7addf8a0ab63085bf","deleted_at":null,"id_toko":null,"flag_product":1,"sap_code":"121-301-5026"}},{"id":23,"id_promo":28,"id_transaction":1174,"customer_name":"Walk in customer","transaction_date":"2023-02-24 06:12:28","kode_transaksi":"230224VeKm","kode_pembayaran":null,"value":25000,"created_at":"2023-02-23T23:12:29.000000Z","id_toko":48,"tipe_promo":0,"tipe_promo_text":"nominal","id_detail_transaction":2019,"id_product":299,"qty":2,"promo":{"id_promo":28,"kode_promo":"Coba-Promosi-Nominal","nama_promo":"Coba Promosi Nominal","group_promo":0,"tipe_promo":0,"value":25000,"max_value":25000,"quota":5,"is_active":1,"all_customer":1,"all_product":0,"user_record":null,"user_modified":null,"notes":null,"id_toko":48,"created_at":"22-02-2023 04:29:47","updated_at":"23-02-2023 23:16:09","deleted_at":null,"start_date":"2023-02-22 11:02:47","end_date":"2023-02-27 23:59:59","minimal_transaction":0,"used":4,"remaining":1},"transaction":{"id_transaction":1174,"id_toko":48,"id_customer":null,"id_payment":null,"date_transaction":"2023-02-24 06:12:28","sub_total":72000,"discount":0,"shipping":0,"tax":0,"payment_type":1,"pay_amount":72000,"debt":0,"user_record":"48","user_modified":"48","created_at":"2023-02-23T23:12:29.000000Z","updated_at":"2023-02-23T23:12:29.000000Z","uuid":"10ab2d68807f4b518898e822d6a703b3","id_kasir":143,"no_references":null,"kode_transaksi":"230224VeKm","status":1,"include_tax":0,"note":null,"percent_tax":0,"change":28000,"money_paid":100000,"cash_insufficient":0,"gift_card_amount":0,"gift_card_code":null},"product":{"id_product":299,"id_category":"b08f404d7f5240a5afff09ccfbfce374","id_brand":"86bf561407ce4a9eaaa6c9321c583c85","id_type":"38511b9a0e0749d7bd6f976ff7e19411","kode_product":"3010590002","nama_product":"SEMEN DYNAMIX SERBA GUNA PLASTIC BAG - 40 KG","user_record":"","user_modified":null,"created_at":"2022-09-19T08:56:05.000000Z","updated_at":"2022-09-19T08:56:05.000000Z","id_uom":"4a7cec67b3d244a7addf8a0ab63085bf","deleted_at":null,"id_toko":null,"flag_product":1,"sap_code":"121-301-5026"}},{"id":19,"id_promo":28,"id_transaction":1172,"customer_name":"Walk in customer","transaction_date":"2023-02-24 06:02:44","kode_transaksi":"230223WAFU","kode_pembayaran":null,"value":25000,"created_at":"2023-02-23T23:03:12.000000Z","id_toko":48,"tipe_promo":0,"tipe_promo_text":"nominal","id_detail_transaction":2015,"id_product":299,"qty":3,"promo":{"id_promo":28,"kode_promo":"Coba-Promosi-Nominal","nama_promo":"Coba Promosi Nominal","group_promo":0,"tipe_promo":0,"value":25000,"max_value":25000,"quota":5,"is_active":1,"all_customer":1,"all_product":0,"user_record":null,"user_modified":null,"notes":null,"id_toko":48,"created_at":"22-02-2023 04:29:47","updated_at":"23-02-2023 23:16:09","deleted_at":null,"start_date":"2023-02-22 11:02:47","end_date":"2023-02-27 23:59:59","minimal_transaction":0,"used":4,"remaining":1},"transaction":{"id_transaction":1172,"id_toko":48,"id_customer":null,"id_payment":null,"date_transaction":"2023-02-24 06:02:44","sub_total":86000,"discount":0,"shipping":0,"tax":0,"payment_type":1,"pay_amount":86000,"debt":0,"user_record":"48","user_modified":"48","created_at":"2023-02-23T23:03:12.000000Z","updated_at":"2023-02-23T23:03:12.000000Z","uuid":"0d6f5d3588524219bbe2be307646a820","id_kasir":143,"no_references":null,"kode_transaksi":"230223WAFU","status":1,"include_tax":0,"note":null,"percent_tax":0,"change":14000,"money_paid":100000,"cash_insufficient":0,"gift_card_amount":0,"gift_card_code":null},"product":{"id_product":299,"id_category":"b08f404d7f5240a5afff09ccfbfce374","id_brand":"86bf561407ce4a9eaaa6c9321c583c85","id_type":"38511b9a0e0749d7bd6f976ff7e19411","kode_product":"3010590002","nama_product":"SEMEN DYNAMIX SERBA GUNA PLASTIC BAG - 40 KG","user_record":"","user_modified":null,"created_at":"2022-09-19T08:56:05.000000Z","updated_at":"2022-09-19T08:56:05.000000Z","id_uom":"4a7cec67b3d244a7addf8a0ab63085bf","deleted_at":null,"id_toko":null,"flag_product":1,"sap_code":"121-301-5026"}},{"id":17,"id_promo":28,"id_transaction":1171,"customer_name":"Walk in customer","transaction_date":"2023-02-24 06:02:44","kode_transaksi":"230224WAFU","kode_pembayaran":null,"value":25000,"created_at":"2023-02-23T23:02:45.000000Z","id_toko":48,"tipe_promo":0,"tipe_promo_text":"nominal","id_detail_transaction":2013,"id_product":299,"qty":3,"promo":{"id_promo":28,"kode_promo":"Coba-Promosi-Nominal","nama_promo":"Coba Promosi Nominal","group_promo":0,"tipe_promo":0,"value":25000,"max_value":25000,"quota":5,"is_active":1,"all_customer":1,"all_product":0,"user_record":null,"user_modified":null,"notes":null,"id_toko":48,"created_at":"22-02-2023 04:29:47","updated_at":"23-02-2023 23:16:09","deleted_at":null,"start_date":"2023-02-22 11:02:47","end_date":"2023-02-27 23:59:59","minimal_transaction":0,"used":4,"remaining":1},"transaction":{"id_transaction":1171,"id_toko":48,"id_customer":null,"id_payment":null,"date_transaction":"2023-02-24 06:02:44","sub_total":86000,"discount":0,"shipping":0,"tax":0,"payment_type":1,"pay_amount":86000,"debt":0,"user_record":"48","user_modified":"48","created_at":"2023-02-23T23:02:45.000000Z","updated_at":"2023-02-23T23:02:45.000000Z","uuid":"b44e2329c8e3484ba51d4ac627ff3212","id_kasir":143,"no_references":null,"kode_transaksi":"230224WAFU","status":1,"include_tax":0,"note":null,"percent_tax":0,"change":14000,"money_paid":100000,"cash_insufficient":0,"gift_card_amount":0,"gift_card_code":null},"product":{"id_product":299,"id_category":"b08f404d7f5240a5afff09ccfbfce374","id_brand":"86bf561407ce4a9eaaa6c9321c583c85","id_type":"38511b9a0e0749d7bd6f976ff7e19411","kode_product":"3010590002","nama_product":"SEMEN DYNAMIX SERBA GUNA PLASTIC BAG - 40 KG","user_record":"","user_modified":null,"created_at":"2022-09-19T08:56:05.000000Z","updated_at":"2022-09-19T08:56:05.000000Z","id_uom":"4a7cec67b3d244a7addf8a0ab63085bf","deleted_at":null,"id_toko":null,"flag_product":1,"sap_code":"121-301-5026"}}]}
+{
+    "kategori": [
+        {
+          "id": 1,
+          "nama": "AI Copywriting",
+          "deskripsi": ""
+        },
+        {
+          "id": 2,
+          "nama": "Ai Video Editor",
+          "deskripsi": ""
+        },
+        {
+          "id": 3,
+          "nama": "Tools",
+          "deskripsi": ""
+        },
+        {
+          "id": 4,
+          "nama": "Sell Product",
+          "deskripsi": ""
+        }
+    ],
+    
+    "data": [
+         {
+          "kategori": 3,
+          "web": "SheetsAi",
+          "link": "https:\/\/sheetai.app\/?via=achmad-aris",
+          "dashboard": "https:\/\/sheetai.getrewardful.com\/",
+          "deskripsi": "Available for Google Sheets. Use AI to transform your text instructions into a Google Sheet formula quickly. Has use cases in generating programmatic SEO content, personalized emails and many more."
+         },
+         {
+          "kategori": 1,
+          "web": "AdcreativeAi",
+          "link": "https:\/\/free-trial.adcreative.ai\/pv4u5771eb3d",
+          "dashboard": "https:\/\/dash.partnerstack.com\/adcreative",
+          "deskripsi": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time."
+         },
+         {
+          "kategori": 1,
+          "web": "Rytr",
+          "link": "https:\/\/rytr.me\/",
+          "dashboard": "no reflink",
+          "deskripsi": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!"
+         },
+         {
+          "kategori": 1,
+          "web": "Writesonic",
+          "link": "https:\/\/writesonic.com?via=achmad-aris87",
+          "dashboard": "https:\/\/affiliates.writesonic.com\/home",
+          "deskripsi": "Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free. Our paraphrasing tool lets you rephrase entire articles instantly."
+         },
+         {
+          "kategori": 1,
+          "web": "Copy Ai",
+          "link": "http:\/\/www.copy.ai\/?via=achmad-aris",
+          "dashboard": "https:\/\/copyai.getrewardful.com\/",
+          "deskripsi": "Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!"
+         },
+         {
+          "kategori": 4,
+          "web": "Printify",
+          "link": "https:\/\/try.printify.com\/k6hl8fz187sv",
+          "dashboard": "https:\/\/dash.partnerstack.com\/home"
+         },
+         {
+          "kategori": 2,
+          "web": "fliki",
+          "link": "https:\/\/fliki.ai\/?via=achmad-aris",
+          "dashboard": "https:\/\/nine-thirty-five-llc.getrewardful.com\/",
+          "deskripsi": "Create videos from scripts or blog posts using realistic voices in 2 minutes! Transform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library. Trusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork."
+         },
+         {
+          "kategori": 2,
+          "web": "Shuffll",
+          "link": "https:\/\/shuffl.com",
+          "dashboard": "no reflink",
+          "deskripsi": "Shuffll is a cutting-edge video production platform that uses AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods."
+         },
+         {
+          "kategori": 2,
+          "web": "D-id",
+          "link": "d-id.com",
+          "dashboard": "no reflink",
+          "deskripsi": "The world’s first platform to combine GPT-3, Stable Diffusion, and D-ID’s unique face animation technology. Our generative AI will turn your vision into a talking avatar within seconds."
+         },
+         {
+          "kategori": 2,
+          "web": "Syntesia",
+          "link": "https:\/\/synthesia.io",
+          "dashboard": "no reflink",
+          "deskripsi": "Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo."
+         }
+    ]
+}
