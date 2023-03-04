@@ -26,70 +26,81 @@
          {
           "kategori": 3,
           "web": "SheetsAi",
-          "link": "https:\/\/sheetai.app\/?via=achmad-aris",
-          "dashboard": "https:\/\/sheetai.getrewardful.com\/",
+          "link": "https://sheetai.app/?via=achmad-aris",
+          "dashboard": "https://sheetai.getrewardful.com/",
+          "img": "",
           "deskripsi": "Available for Google Sheets. Use AI to transform your text instructions into a Google Sheet formula quickly. Has use cases in generating programmatic SEO content, personalized emails and many more."
          },
          {
           "kategori": 1,
           "web": "AdcreativeAi",
-          "link": "https:\/\/free-trial.adcreative.ai\/pv4u5771eb3d",
-          "dashboard": "https:\/\/dash.partnerstack.com\/adcreative",
+          "link": "https://free-trial.adcreative.ai/pv4u5771eb3d",
+          "dashboard": "https://dash.partnerstack.com/adcreative",
+          "img": "https://imgpile.com/images/dj5FZi.png",
           "deskripsi": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time."
          },
          {
           "kategori": 1,
           "web": "Rytr",
-          "link": "https:\/\/rytr.me\/",
+          "link": "https://rytr.me/",
           "dashboard": "no reflink",
+          "img": "https://imgpile.com/images/dj5Ok3.png",
           "deskripsi": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!"
          },
          {
           "kategori": 1,
           "web": "Writesonic",
-          "link": "https:\/\/writesonic.com?via=achmad-aris87",
-          "dashboard": "https:\/\/affiliates.writesonic.com\/home",
+          "link": "https://writesonic.com?via=achmad-aris87",
+          "dashboard": "https://affiliates.writesonic.com/home",
+          "img": "https://imgpile.com/images/dj5BoF.png",
           "deskripsi": "Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free. Our paraphrasing tool lets you rephrase entire articles instantly."
          },
          {
           "kategori": 1,
           "web": "Copy Ai",
-          "link": "http:\/\/www.copy.ai\/?via=achmad-aris",
-          "dashboard": "https:\/\/copyai.getrewardful.com\/",
+          "link": "http://www.copy.ai/?via=achmad-aris",
+          "dashboard": "https://copyai.getrewardful.com/",
+          "img": "https://imgpile.com/images/dj5ghu.png",
           "deskripsi": "Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!"
          },
          {
           "kategori": 4,
           "web": "Printify",
-          "link": "https:\/\/try.printify.com\/k6hl8fz187sv",
-          "dashboard": "https:\/\/dash.partnerstack.com\/home"
+          "link": "https://try.printify.com/k6hl8fz187sv",
+          "dashboard": "https://dash.partnerstack.com/home",
+          "img": "",
+          "deskripsi": ""
          },
          {
           "kategori": 2,
           "web": "fliki",
-          "link": "https:\/\/fliki.ai\/?via=achmad-aris",
-          "dashboard": "https:\/\/nine-thirty-five-llc.getrewardful.com\/",
+          "link": "https://fliki.ai/?via=achmad-aris",
+          "dashboard": "https://nine-thirty-five-llc.getrewardful.com/",
+          "img": "",
           "deskripsi": "Create videos from scripts or blog posts using realistic voices in 2 minutes! Transform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library. Trusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork."
          },
          {
           "kategori": 2,
-          "web": "Shuffll",
-          "link": "https:\/\/shuffl.com",
+          "web": "Shuffl",
+          "link": "https://shuffl.com",
           "dashboard": "no reflink",
+          "img": "",
           "deskripsi": "Shuffll is a cutting-edge video production platform that uses AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods."
          },
          {
           "kategori": 2,
           "web": "D-id",
-          "link": "d-id.com",
+          "link": "https://d-id.com",
           "dashboard": "no reflink",
+          "img": "",
           "deskripsi": "The world’s first platform to combine GPT-3, Stable Diffusion, and D-ID’s unique face animation technology. Our generative AI will turn your vision into a talking avatar within seconds."
          },
          {
           "kategori": 2,
-          "web": "Syntesia",
-          "link": "https:\/\/synthesia.io",
+          "web": "Synthesia",
+          "link": "https://synthesia.io",
           "dashboard": "no reflink",
+          "img": "",
           "deskripsi": "Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo."
          }
     ]
