@@ -1,8 +1,17 @@
-[
- {
-  "kategori": 3,
-  "web": "Ball Blast",
-  "link": "https:\/\/www.crazygames.com\/game\/ball-blast",
-  "deskripsi": "Ball Blast Game"
- }
-]
+{
+  "kategori": [
+        {
+          "id": 1,
+          "nama": "AI Copywriting",
+          "deskripsi": "AI writing for you"
+        }
+    ],
+  "data": [
+       {
+        "kategori": 3,
+        "web": "Ball Blast",
+        "link": "https:\/\/www.crazygames.com\/game\/ball-blast",
+        "deskripsi": "Ball Blast Game"
+      }
+   ],
+}
