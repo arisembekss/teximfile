@@ -1,17 +1,20 @@
 {
-  "kategori": [
+    "kategori": [
         {
-          "id": 1,
-          "nama": "AI Copywriting",
-          "deskripsi": "AI writing for you"
+          "id": 4,
+          "nama": "Sell Product",
+          "deskripsi": "Easier Side Hustle"
         }
     ],
-  "data": [
-       {
-        "kategori": 3,
-        "web": "Ball Blast",
-        "link": "https://www.crazygames.com/game/ball-blast",
-        "deskripsi": "Ball Blast Game"
-      }
-   ],
+    
+    "data": [
+         {
+          "kategori": 2,
+          "web": "Ball Blast",
+          "link": "https://www.crazygames.com/game/ball-blast",
+          "dashboard": "no reflink",
+          "img": "https://imgpile.com/images/hIxWBW.png",
+          "deskripsi": "Game Ball Blast"
+         }
+    ]
 }
