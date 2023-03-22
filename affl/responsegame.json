@@ -2,19 +2,90 @@
     "kategori": [
         {
           "id": 1,
-          "nama": "AI Copywriting",
-          "deskripsi": "AI writing for you"
+          "nama": "Card",
+          "deskripsi": ""
+        },
+        {
+          "id": 2,
+          "nama": "Casual",
+          "deskripsi": ""
+        },
+        {
+          "id": 3,
+          "nama": "Puzzles",
+          "deskripsi": ""
+        },
+        {
+          "id": 4,
+          "nama": "Simulator",
+          "deskripsi": ""
         }
     ],
     
     "data": [
          {
-          "kategori": 3,
-          "web": "Ball Blass",
-          "link": "https://www.iidnfing3jfjn8jvjujfjs.xyz/football.html",
+          "kategori": 1,
+          "web": "Solitaire",
+          "link": "https://yandex.com/games/app/182305",
           "dashboard": "",
-          "img": "https://imgpile.com/images/hIxWBW.png",
-          "deskripsi": "Game Ball Blast"
+          "img": "",
+          "deskripsi": ""
+         },
+        {
+          "kategori": 1,
+          "web": "Uno",
+          "link": "https://yandex.com/games/app/172537",
+          "dashboard": "",
+          "img": "",
+          "deskripsi": ""
+         },
+        {
+          "kategori": 1,
+          "web": "Spider King",
+          "link": "https://yandex.com/games/app/204142",
+          "dashboard": "",
+          "img": "",
+          "deskripsi": ""
+         },
+        {
+          "kategori": 2,
+          "web": "Fish Pin",
+          "link": "https://yandex.com/games/app/182185",
+          "dashboard": "",
+          "img": "",
+          "deskripsi": ""
+         },
+        {
+          "kategori": 2,
+          "web": "Idle Ark: Sail and Build",
+          "link": "https://yandex.com/games/app/188444",
+          "dashboard": "",
+          "img": "",
+          "deskripsi": ""
+         },
+        {
+          "kategori": 2,
+          "web": "Tallman Run",
+          "link": "https://yandex.com/games/app/199815",
+          "dashboard": "",
+          "img": "",
+          "deskripsi": ""
+         },
+        {
+          "kategori": 3,
+          "web": "Ludo Fever",
+          "link": "https://yandex.com/games/app/189925",
+          "dashboard": "",
+          "img": "",
+          "deskripsi": ""
+         },
+        {
+          "kategori": 4,
+          "web": "Tiles Hop Bal",
+          "link": "https://yandex.com/games/app/198030",
+          "dashboard": "",
+          "img": "",
+          "deskripsi": ""
          }
     ]
 }
